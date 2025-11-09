@@ -98,7 +98,7 @@
     },
     {
       "id": 13,
-      "name": "Bruschetta",
+      "title": "Bruschetta",
       "price": "7.99",
       "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
       "image": "bruschetta.jpg",
@@ -106,7 +106,7 @@
     },
     {
       "id": 14,
-      "name": "Grilled Fish",
+      "title": "Grilled Fish",
       "price": "20.00",
       "description": "Fantastic grilled fish seasoned with salt.",
       "image": "grilledFish.jpg",
@@ -114,7 +114,7 @@
     },
     {
       "id": 15,
-      "name": "Pasta",
+      "title": "Pasta",
       "price": "6.99",
       "description": "Delicious pasta for your delight.",
       "image": "pasta.jpg",
@@ -122,7 +122,7 @@
     },
     {
       "id": 16,
-      "name": "Lemon Dessert",
+      "title": "Lemon Dessert",
       "price": "4.99",
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
