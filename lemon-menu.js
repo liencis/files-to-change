@@ -126,7 +126,7 @@
       "price": "4.99",
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
-      "category": "desserts"      
+      "category": "Desserts"      
     }
   ]
 }
