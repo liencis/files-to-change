@@ -95,7 +95,7 @@
       "description": "",
       "image": "",
       "category": "Beverages"
-    }
+    },
     {
       "id": 13,
       "name": "Bruschetta",
