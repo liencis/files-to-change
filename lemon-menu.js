@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Fried Calamari Rings",
       "price": "5.60",
-      "description": "Crispy and tender inside our moust popular snack.",
+      "description": "Crispy and tender inside, our most popular snack.",
       "image": "https://imgur.com/YkeqYl6.jpg",
       "category": "Appetizers"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Fried Mushroom",
       "price": "12",
-      "description": "Fried exclusive chanterelle mushroom toped with dill.",
+      "description": "Fried exclusive chanterelle mushroom topped with dill.",
       "image": "https://imgur.com/3INf2dl.jpg",
       "category": "Appetizers"
     },
@@ -92,7 +92,7 @@
       "id": 12,
       "title": "Iced Tea",
       "price": "3",
-      "description": "Home made ice tea, green and ulong awailable.",
+      "description": "Home-made iced tea, green and ulong awailable.",
       "image": "https://imgur.com/gGyEEte.jpg",
       "category": "Beverages"
     },
