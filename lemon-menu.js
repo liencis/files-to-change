@@ -124,7 +124,7 @@
       "id": 16,
       "title": "Lemon Dessert",
       "price": "4.99",
-      "description": "You can't go wrong with this delicious lemon dessert!",
+      "description": "You can`t go wrong with this delicious lemon dessert!",
       "image": "https://imgur.com/MhkAzXF.jpg",
       "category": "Desserts"      
     }
