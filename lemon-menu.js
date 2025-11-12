@@ -101,7 +101,7 @@
       "title": "Bruschetta",
       "price": "7.99",
       "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
-      "image": "bruschetta.jpg",
+      "image": "https://imgur.com/SSZMZjD.jpg",
       "category": "Appetizers"
     },
     {
